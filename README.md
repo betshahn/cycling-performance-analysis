@@ -13,18 +13,12 @@ Which factors are most strongly associated with cycling speed, and how well can 
 The focuses on identifying relationships between cycling performance (average speed) and key explanatory variables, including average heart rate, elevation gain, distance, and moving time.
 
 ### Distribution of Cycling Speed
-This plot shows the distribution of average cycling speeds across all rides.
-
 ![Speed Distribution](figures/speed_distribution.png)
 
 ### Heart Rate vs Speed
-This plot examines the relationship between average heart rate and cycling speed.
-
 ![Heart Rate vs Speed](figures/heart_rate_vs_speed.png)
 
 ### Elevation Gain vs Speed
-This plot explores how elevation gain relates to cycling speed.
-
 ![Elevation vs Speed](figures/elevation_vs_speed.png)
 
 ## What has been seen so far
@@ -33,7 +27,7 @@ This plot explores how elevation gain relates to cycling speed.
 - Distance and moving time show weaker relationships with speed compared to physiological and terrain-based features  
 - Overall performance appears more influenced by effort and elevation than by ride length alone  
 
-## Next Steps
+## Now... 
 - Build a regression model to predict cycling speed using the most correlated features  
 - Additional variables such as pace and elevation intensity  
 - Explore temporal effects such as time of day or seasonal variation  
