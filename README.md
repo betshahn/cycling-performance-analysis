@@ -8,27 +8,6 @@ This project analyzes cycling activity data from Strava to understand which fact
 ## Research Question
 Which factors are most strongly associated with cycling speed, and how well can cycling performance be explained using ride characteristics such as heart rate, elevation gain, distance, and duration?
 
-## Project Structure
-cycling-performance-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_eda.ipynb
-│
-├── src/
-│   ├── data_cleaning.py
-│
-├── figures/
-│   ├── speed_distribution.png
-│   ├── heart_rate_vs_speed.png
-│   ├── elevation_vs_speed.png
-│
-├── README.md
-└── requirements.txt
-
 ## EDA
 
 The focuses on identifying relationships between cycling performance (average speed) and key explanatory variables, including average heart rate, elevation gain, distance, and moving time.
